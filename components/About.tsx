@@ -19,7 +19,7 @@ export default function About() {
       <SectionHeading> About Me</SectionHeading>
       <p className="mb-3">
         Front-end developer based in the United Kingdom. Hey my name is Talia,
-        and i'm a passionate frontend developer. <br></br> My passion is to
+        and im a passionate frontend developer. <br></br> My passion is to
         create functional and clean sites and applications for users. My current
         main tech stack is React/Next.js in combination with TailwindCSS and
         Typescript.
