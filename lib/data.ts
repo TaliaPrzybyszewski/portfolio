@@ -46,9 +46,14 @@ export const projectsData = [
   {
     title: 'DigitalHippo',
     description:
-      'A FullStack E-commerce website built with React, Next.js, MongoDB, Tailwind, and Stripe. It has a fully functional shopping cart and payment processing.',
+      'A FullStack E-commerce website built with React, Next.js, MongoDB, Tailwind, and Stripe. It ha‰s a fully functional shopping cart and payment processing.',
     tags: ['React', 'Next.js', 'MongoDB', 'Tailwind', 'Stripe'],
     imageUrl: digitalhippo,
+  },
+  {
+    title: 'Coming Soon....',
+    description: 'A Blog Site using React and Sanity CMS.',
+    tags: ['React', 'Sanity', 'Tailwind', ''],
   },
 ] as const
 
